@@ -7,17 +7,17 @@ Noninvasive X-ray imaging of nanoscale three-dimensional objects, such as integr
 If you find the paper useful in your research, please cite the paper:
 
 
-@article{kang_attentional_2023,
-	title = {Attentional {Ptycho}-{Tomography} ({APT}) for three-dimensional nanoscale {X}-ray imaging with minimal data acquisition and computation time},
-	volume = {12},
-	issn = {2047-7538},
-	url = {https://doi.org/10.1038/s41377-023-01181-8},
-	doi = {10.1038/s41377-023-01181-8},
-	number = {1},
-	journal = {Light: Science \& Applications},
-	author = {Kang, Iksung and Wu, Ziling and Jiang, Yi and Yao, Yudong and Deng, Junjing and Klug, Jeffrey and Vogt, Stefan and Barbastathis, George},
-	month = may,
-	year = {2023},
-	pages = {131},
-}
+	@article{kang_attentional_2023,
+		title = {Attentional {Ptycho}-{Tomography} ({APT}) for three-dimensional nanoscale {X}-ray imaging with minimal data acquisition and computation time},
+		volume = {12},
+		issn = {2047-7538},
+		url = {https://doi.org/10.1038/s41377-023-01181-8},
+		doi = {10.1038/s41377-023-01181-8},
+		number = {1},
+		journal = {Light: Science \& Applications},
+		author = {Kang, Iksung and Wu, Ziling and Jiang, Yi and Yao, Yudong and Deng, Junjing and Klug, Jeffrey and Vogt, Stefan and Barbastathis, George},
+		month = may,
+		year = {2023},
+		pages = {131},
+	}
 

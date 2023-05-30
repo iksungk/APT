@@ -22,3 +22,5 @@ If you find the paper useful in your research, please consider citing the paper:
 		pages = {131},
 	}
 
+## Data availability
+The data that support the findings of this study are available from IARPA but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Data are however available from the authors upon reasonable request and with permission of IARPA.
